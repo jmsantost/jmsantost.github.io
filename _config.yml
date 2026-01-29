@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "José Miguel Santos Terán"
 title_separator          : "-"
 name                     : &name "José Miguel Santos Terán"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "José Miguel Santos Terán's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jmsantost.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "perfil.jpg"
   name             : "José Miguel Santos Terán"
   pronouns         : # example: "she/her"  
   bio              : "Mechatronics Engineer | Teaching Technician at UPS | Swarm Robotics Researcher | Former AIROS Club President."
