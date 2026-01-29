@@ -16,9 +16,10 @@ My primary research focus is **Swarm Robotics**. I am currently working on repli
 
 ## Teaching Experience
 At UPS, I am responsible for practical laboratory instruction, working with industrial robotic platforms such as the **KUKA KR10** and **KR4**. I also teach courses related to **CAD/CAM** software, including:
-* **SolidWorks** (Certification in progress)
+* **SolidWorks** 
 * **Autodesk Inventor**
 * **Mastercam**
+
 
 ## Leadership
 I previously served as the **President of the AIROS** (Artificial Intelligence and Robotics Society) at ESPOL, where I organized technical events and fostered a community for robotics enthusiasts.
