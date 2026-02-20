@@ -3,7 +3,7 @@ title: "Autonomous Racing Champion: IRO Open Ecuador 2025 (F1TENTH)"
 collection: portfolio
 permalink: /portfolio/2025-f1tenth-championship
 excerpt: 'Won 1st place in the RoboRacer category at the International Robot Olympiad (IRO) Open Ecuador 2025, implementing autonomous navigation stacks for F1TENTH platforms.'
-date: 2025-01-20
+date: 2025-08-17
 venue: 'International Robot Olympiad (IRO) Open Ecuador'
 header:
   teaser: "/images/carro%20f1t.jpg"
