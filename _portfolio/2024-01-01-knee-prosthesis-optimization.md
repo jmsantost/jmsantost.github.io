@@ -9,12 +9,12 @@ header:
   teaser: "/images/vi%20rodilla.jpeg"
 ---
 
-[cite_start]Durante mi pasantía como interno de manufactura en el **Centro de Fabricación de Precisión (CAMPRO)** de la **ESPOL**, lideré la optimización de prótesis de rodilla[cite: 1]. Este proyecto requirió una integración profunda entre el diseño asistido por computadora (CAD) y la ingeniería asistida por computadora (CAE).
+Durante mi pasantía como interno de manufactura en el **Centro de Fabricación de Precisión (CAMPRO)** de la **ESPOL**, lideré la optimización de prótesis de rodilla[cite: 1]. Este proyecto requirió una integración profunda entre el diseño asistido por computadora (CAD) y la ingeniería asistida por computadora (CAE).
 
 ### Análisis y Optimización Técnica
 El trabajo se centró en mejorar la eficiencia estructural y la manufacturabilidad de componentes protésicos complejos:
 
-* [cite_start]**Optimización mediante FEA:** Utilicé **Análisis de Elementos Finitos (FEA)** para simular las cargas dinámicas en las prótesis, optimizando la geometría para maximizar la resistencia y minimizar el peso del material.
+* **Optimización mediante FEA:** Utilicé **Análisis de Elementos Finitos (FEA)** para simular las cargas dinámicas en las prótesis, optimizando la geometría para maximizar la resistencia y minimizar el peso del material.
 * **Validación de Manufactura:** Diseñé y validé los flujos de trabajo para centros de mecanizado **CNC multieje**, asegurando que los diseños optimizados cumplieran con las tolerancias industriales requeridas.
 
 ### Prototipado y Validación de Diseño
