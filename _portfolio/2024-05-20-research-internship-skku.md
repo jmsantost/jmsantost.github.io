@@ -9,24 +9,24 @@ header:
   teaser: "/images/yo-skku.jpg"
 ---
 
-During my research stay at the **RISE Lab** at **Sungkyunkwan University** in South Korea, I worked under the supervision of **Nabih Pico, Ph.D.**. This experience allowed me to dive deep into the field of mobile robotics, focusing on autonomous navigation and mapping.
+During my research stay at the RISE Lab at Sungkyunkwan University in South Korea, I worked under the supervision of Nabih Pico, Ph.D.. This experience allowed me to dive deep into the field of mobile robotics, focusing on autonomous navigation and mapping.
 
 <img src="/images/yo-skku.jpg" width="800" alt="In front of Samsung Library, SKKU">
 
 ### Technical Research & Development
-My work focused on implementing and testing **Navigation** and **SLAM** (Simultaneous Localization and Mapping) architectures. I utilized a professional robotics stack to bridge the gap between simulation and real-world deployment:
+My work focused on implementing and testing Navigation and SLAM (Simultaneous Localization and Mapping) architectures. I utilized a professional robotics stack to bridge the gap between simulation and real-world deployment:
 
-* **Platforms:** Worked extensively with **TurtleBot3**.
-* **Software Stack:** Developed using **ROS (Robot Operating System)** and **RViz** for data visualization.
-* **Simulation:** Conducted experiments and validation in **Gazebo**.
-* **Specific Algorithms:** Optimized industrial motion planning and SLAM architectures, including collaboration with **Hyundai Robotics**.
+* Platforms: Worked extensively with TurtleBot3.
+* Software Stack: Developed using ROS (Robot Operating System) and RViz for data visualization.
+* Simulation: Conducted experiments and validation in Gazebo.
+* Specific Algorithms: Optimized industrial motion planning and SLAM architectures, including collaboration with Hyundai Robotics.
 
 ### Lab Experiments & Demonstrations
 The following videos showcase the implementation of autonomous navigation stacks and sensor fusion experiments conducted during the internship:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <iframe width="560" height="315 src="[https://youtu.be/aEvPxl-h110?si=OxkskFFnk0CdO4Bx" frameborder="0" allowfullscreen></iframe>
- <iframe width="560" height="315 src="https://youtu.be/0F7sW27ZyuU?si=LTNAJKjmjAtRawYR" frameborder="0" allowfullscreen></iframe>
+  <iframe width="45%" height="250" src="https://www.youtube.com/embed/aEvPxl-h110" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="45%" height="250" src="https://www.youtube.com/embed/0F7sW27ZyuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Industrial and Academic Visits
@@ -45,8 +45,8 @@ Beyond lab work, I had the privilege of visiting specialized companies and resea
 
 ### Professional Impact
 This internship was not only a technical challenge but also an enriching cultural and academic exchange. I gained significant experience in:
-* **Human-Robot Interaction:** Modeling navigation scenarios using **Social Force Models (SFM)**.
-* **International Collaboration:** Engaging with high-level researchers and industrial partners.
+* Human-Robot Interaction: Modeling navigation scenarios using Social Force Models (SFM).
+* International Collaboration: Engaging with high-level researchers and industrial partners.
 
 <img src="/images/yo-bomberos.jpg" width="600" alt="Visit to Incident Command Training Center">
 
