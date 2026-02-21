@@ -13,7 +13,7 @@ I am **José Miguel Santos Terán**, a Mechatronics Engineer from **ESPOL** (Esc
 Currently, I serve as a **Mechatronics Teaching Technician** at **Universidad Politécnica Salesiana (UPS)** in Guayaquil, Ecuador, where I guide students in laboratory sessions and practical projects related to control and robotics.
 
 ## Research & Projects
-My primary research focus is **Swarm Robotics and Interconnected Dynamical Systems**. I am working on replicating and extending research papers in this field, utilizing **ARGoS** and **ROS/Gazebo** simulators to analyze collective robotic behaviors and implement learning-based control functionalities.
+My primary research focus is **Control Systems**. I am working on replicating and extending research papers in this field, utilizing **ARGoS** and **ROS/Gazebo** simulators to analyze collective robotic behaviors and implement learning-based control functionalities.
 
 My thesis project involves **QUPA**, a modular robotic platform, where I contributed to the mechanical, electronic, and control design of both the robot and its gripper. This includes:
 * **Designing control architectures** for gripper manipulation and robotic motion.
@@ -39,4 +39,4 @@ Previously, as a **Teaching Assistant at ESPOL**, I supported courses on **Appli
 I previously served as **President of AIROS** (Artificial Intelligence and Robotics Society) at ESPOL, organizing technical workshops, competitions, and community events to promote robotics research.
 
 ## Goals
-I am actively seeking a **PhD position** to deepen my expertise in autonomous systems, control theory, and decentralized control, aiming to develop robust robotic swarms and intelligent systems for complex real-world applications.
+I am actively seeking a **PhD position** to deepen my expertise in autonomous systems, complex systems, control theory, and decentralized control, aiming to develop robust robotic swarms and intelligent systems for complex real-world applications.
