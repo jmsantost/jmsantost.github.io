@@ -11,7 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-## Conference Proceedings
+<h2>Conference Proceedings</h2>
+<hr />
+
 {% for post in site.publications reversed %}
   {% if post.category == 'proceedings' %}
     {% include archive-single.html %}
@@ -20,7 +22,9 @@ author_profile: true
 
 <br/>
 
-## Manuscripts in Preparation
+<h2>Manuscripts in Preparation</h2>
+<hr />
+
 {% for post in site.publications reversed %}
   {% if post.category == 'manuscripts' %}
     {% include archive-single.html %}
