@@ -25,8 +25,8 @@ My work focused on implementing and testing Navigation and SLAM (Simultaneous Lo
 The following videos showcase the implementation of autonomous navigation stacks and sensor fusion experiments conducted during the internship:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <iframe width="45%" height="250" src="https://www.youtube.com/embed/aEvPxl-h110" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  <iframe width="45%" height="250" src="https://www.youtube.com/embed/0F7sW27ZyuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/aEvPxl-h110" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/0F7sW27ZyuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Industrial and Academic Visits
