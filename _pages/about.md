@@ -16,11 +16,11 @@ My work focuses on the development of distributed control strategies for swarm r
 
 My research centers on:
 
-- Nonlinear control and stability analysis (Lyapunov-based methods, H-infinity control)
 - Decentralized and distributed control architectures
 - Multi-agent coordination and swarm robotics
 - Learning-based task allocation mechanisms
 - Simulation and hardware-in-the-loop validation using ARGoS, ROS2, and Gazebo
+- Nonlinear control and stability analysis (Lyapunov-based methods, H-infinity control)
 
 ## QUPA Robotic Platform
 
