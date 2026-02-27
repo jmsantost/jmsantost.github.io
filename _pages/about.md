@@ -1,52 +1,48 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: "Distributed Autonomous Robotics | Swarm Systems | Control & Simulation"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am José Miguel Santos Terán, a Mechatronics Engineer from Escuela Superior Politécnica del Litoral (ESPOL). My research interests lie in Control Systems, nonlinear dynamics, and decentralized coordination in multi-agent robotic systems.
+<video width="100%" autoplay loop muted playsinline>
+  <source src="/files/qupa_swarm_demo.mp4" type="video/mp4">
+</video>
 
-My work focuses on the development of distributed control strategies for swarm robotics, integrating theoretical control foundations with large-scale simulation and hardware validation. I am particularly interested in stability analysis, state-space modeling, and learning-based coordination mechanisms for autonomous robotic collectives.
+I am José Miguel Santos Terán, a Mechatronics Engineer specializing in distributed autonomous robotic systems, swarm robotics, and embedded control. My work integrates hardware design, multi-level simulation, perception, and decentralized coordination in resource-constrained robotic platforms.
+
+I am currently a Mechatronics Teaching Technician at Universidad Politécnica Salesiana (UPS), where I supervise laboratory sessions in robotics and control systems. Alongside my teaching responsibilities, I actively develop experimental robotic platforms focused on cooperative task execution and scalable swarm behaviors.
+
+---
 
 ## Research Focus
 
-My research centers on:
+My research interests lie at the intersection of:
 
-- Decentralized and distributed control architectures
-- Multi-agent coordination and swarm robotics
-- Learning-based task allocation mechanisms
-- Simulation and hardware-in-the-loop validation using ARGoS, ROS2, and Gazebo
-- Nonlinear control and stability analysis (Lyapunov-based methods, H-infinity control)
+- Distributed autonomous control  
+- Swarm and multi-robot systems  
+- Multi-level simulation of collective behaviors  
+- Resource-constrained embedded robotic platforms  
+- Decentralized perception and decision-making under uncertainty  
 
-## QUPA Robotic Platform
+I am particularly interested in understanding how locally sensing and computing robots can coordinate at scale to achieve reliable inspection, monitoring, and cooperative manipulation tasks.
 
-My thesis project involves the development of QUPA, a modular robotic platform designed for swarm construction research. I contributed to the mechanical, electronic, and control system design of both the robotic base and its gripper mechanism.
+---
 
-My work includes:
+## Selected Project — QUPA Distributed Robotic Platform
 
-- Designing control architectures for robotic motion and manipulation
-- Implementing PID and state-space controllers
-- Modeling system dynamics and validating stability properties
-- Evaluating system performance in time and frequency domains
-- Simulating decentralized and hierarchical coordination strategies
+QUPA is a modular miniaturized robotic platform designed for cooperative manipulation and swarm-based task execution. The project involved:
 
-This project bridges theoretical control modeling with physical robotic implementation, strengthening my research foundation in interconnected dynamical systems.
+- Mechatronic design of a compact manipulation module  
+- Embedded implementation using ESP32-based architecture  
+- Energy modeling and torque analysis for resource-constrained operation  
+- Decentralized perception using onboard vision processing  
+- Multi-robot simulation experiments in ARGoS and Gazebo  
+- Experimental validation with physical robots  
 
-## Academic & Teaching Experience
+Through scaling experiments (1–3 robots), I analyzed task completion time and efficiency improvements, demonstrating measurable performance gains emerging from decentralized coordination.
 
-Alongside my research activities, I serve as a Mechatronics Teaching Technician at Universidad Politécnica Salesiana (UPS), where I supervise laboratory sessions in industrial robotics and control systems. I work with platforms such as KUKA KR10/KR4 and guide students in modeling, controller implementation, and system validation.
-
-Previously, as a Teaching Assistant at ESPOL, I supported courses in Advanced Control Systems and Mechatronic Design, covering:
-
-- State-space modeling and transfer function analysis
-- Controller design and implementation
-- Stability analysis (Lyapunov methods, H-infinity control)
-- Time- and frequency-domain techniques (Bode and Nyquist analysis)
-
-## Research Objectives
-
-I am actively seeking a PhD position in Control Systems and Complex Dynamical Systems, with a focus on decentralized multi-agent coordination, swarm robotics, and stability analysis of interconnected autonomous systems.
+This work combines mechanical design, control theory, embedded systems, perception, and swarm-level simulation — forming the foundation of my research trajectory in distributed autonomous robotics.
