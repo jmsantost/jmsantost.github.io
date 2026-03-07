@@ -8,41 +8,50 @@ redirect_from:
   - /about.html
 ---
 
-<video width="100%" autoplay loop muted playsinline>
-  <source src="/files/qupa_swarm_demo.mp4" type="video/mp4">
-</video>
+<div style="text-align:center; margin-bottom:30px;">
+<iframe width="800" height="450" 
+src="https://www.youtube.com/embed/ogbKXia1wyc" 
+title="QUPA Distributed Robotic Platform" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+</div>
 
-I am José Miguel Santos Terán, a Mechatronics Engineer specializing in distributed autonomous robotic systems, swarm robotics, and embedded control. My work integrates hardware design, multi-level simulation, perception, and decentralized coordination in resource-constrained robotic platforms.
+I am **José Miguel Santos Terán**, a Mechatronics Engineer from Escuela Superior Politécnica del Litoral (ESPOL). My research interests focus on **autonomous robotics, distributed control systems, and swarm robotics**, integrating mechanical design, embedded systems, and multi-robot simulation.
 
-I am currently a Mechatronics Teaching Technician at Universidad Politécnica Salesiana (UPS), where I supervise laboratory sessions in robotics and control systems. Alongside my teaching responsibilities, I actively develop experimental robotic platforms focused on cooperative task execution and scalable swarm behaviors.
+My work explores how **resource-constrained robots can sense, process information locally, and coordinate through decentralized decision-making** to achieve cooperative behaviors in complex environments.
 
 ---
 
-## Research Focus
+## Research Interests
 
-My research interests lie at the intersection of:
+My research focuses on the intersection of:
 
-- Distributed autonomous control  
-- Swarm and multi-robot systems  
-- Multi-level simulation of collective behaviors  
-- Resource-constrained embedded robotic platforms  
-- Decentralized perception and decision-making under uncertainty  
+- Distributed autonomous control
+- Swarm and multi-robot systems
+- Decentralized coordination and collective behavior
+- Multi-level simulation of robotic systems
+- Embedded robotic platforms and perception
+- Experimental validation of distributed algorithms
 
-I am particularly interested in understanding how locally sensing and computing robots can coordinate at scale to achieve reliable inspection, monitoring, and cooperative manipulation tasks.
+I am particularly interested in **scalable robotic collectives capable of performing inspection, monitoring, and cooperative manipulation tasks**.
 
 ---
 
 ## Selected Project — QUPA Distributed Robotic Platform
 
-QUPA is a modular miniaturized robotic platform designed for cooperative manipulation and swarm-based task execution. The project involved:
+QUPA is a **modular robotic platform designed for cooperative manipulation and swarm-based experimentation**. The system integrates embedded control, onboard perception, and distributed decision-making in a compact robotic architecture.
 
-- Mechatronic design of a compact manipulation module  
-- Embedded implementation using ESP32-based architecture  
-- Energy modeling and torque analysis for resource-constrained operation  
-- Decentralized perception using onboard vision processing  
-- Multi-robot simulation experiments in ARGoS and Gazebo  
-- Experimental validation with physical robots  
+My work on this platform involved:
 
-Through scaling experiments (1–3 robots), I analyzed task completion time and efficiency improvements, demonstrating measurable performance gains emerging from decentralized coordination.
+- Mechanical and electronic design of the robotic platform and gripper
+- Embedded implementation using ESP32 microcontrollers
+- Energy consumption modeling and actuator torque analysis
+- Onboard visual perception using color segmentation
+- Simulation experiments in **ARGoS and Gazebo**
+- Experimental validation using physical robots
 
-This work combines mechanical design, control theory, embedded systems, perception, and swarm-level simulation — forming the foundation of my research trajectory in distributed autonomous robotics.
+Scaling experiments with multiple robots demonstrated improvements in **task completion time and cooperative efficiency**, highlighting the potential of decentralized robotic coordination.
+
+This work combines **robotics, control systems, embedded computing, and swarm-level experimentation**, forming the basis of my research direction in distributed autonomous robotic systems.
