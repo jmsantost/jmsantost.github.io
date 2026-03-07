@@ -13,7 +13,7 @@ Mechatronics Engineer with research experience in autonomous robotics, distribut
 
 ## Research Experience
 
-### Undergraduate Researcher – CoRAL Lab (Collaborative Robotics and AI), ESPOL  
+### Researcher Assistant – CoRAL Lab (Collaborative Robotics and AI), ESPOL  
 Sep 2024 – Present | Guayaquil, Ecuador
 
 - Research on coordination strategies for multi-robot systems and swarm robotics.
