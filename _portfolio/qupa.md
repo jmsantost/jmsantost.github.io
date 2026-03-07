@@ -4,100 +4,73 @@ collection: portfolio
 permalink: /portfolio/qupa
 ---
 
-QUPA is a modular robotic platform developed for experimentation with distributed robotic systems and cooperative behaviors. The project integrates mechanical design, embedded systems, perception, and multi-robot simulation to study how resource-constrained robots can coordinate to perform collective tasks.
+QUPA is a modular robotic platform developed to study autonomous robotics and distributed multi-robot behaviors.  
+The platform integrates embedded control, onboard perception, robotic manipulation, and simulation environments to evaluate robotic systems both in simulation and in real-world experiments.
 
-The platform was designed to explore decentralized perception, local decision-making, and swarm-level behaviors through both simulation and real-world experiments.
+The project combines mechanical design, embedded systems, perception, and multi-robot experimentation.
 
 ---
 
 ## Physical Robotic Platform
 
-The QUPA robot is a compact mobile robot equipped with an embedded controller, onboard sensing, and a modular manipulation system. The robot was designed to manipulate small objects while operating as part of a cooperative robotic group.
+QUPA is a compact mobile robot equipped with onboard sensing, embedded computation, and a modular manipulation system. The platform was designed as a research testbed for studying cooperative robotic behaviors and decentralized decision-making.
 
 <p align="center">
 <img src="/images/qupa_Real.jpeg" width="450">
 </p>
 
-Key characteristics of the platform include:
+---
 
-- ESP32-based embedded control system  
-- Modular mechanical architecture  
-- Low-cost and resource-constrained design  
-- Onboard perception for object detection  
-- Manipulation module for cooperative tasks  
+## Color-Based Perception Experiment
+
+In this experiment the robot performs color-based object detection using onboard sensing and local processing.  
+The robot identifies objects based on color and adjusts its motion accordingly.
+
+<div style="text-align:center; margin-bottom:30px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ESOIDERgu5o" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
-## Multi-Robot Simulation
+## Embedded System Behavior
 
-To study collective robotic behaviors, the system was modeled and simulated using ARGoS and Gazebo. These environments allow testing swarm coordination strategies and analyzing how task performance changes as the number of robots increases.
+This experiment demonstrates the integration of embedded control and system states using onboard indicators and actuators.
 
-<p align="center">
-<img src="/images/qupa_argos_simulation.png" width="600">
-</p>
-
-Simulation experiments evaluated:
-
-- task completion time  
-- cooperation efficiency  
-- scaling behavior as more robots participate  
-
-These experiments provide insight into how decentralized coordination strategies affect swarm performance.
+<div style="text-align:center; margin-bottom:30px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EgogQOCJOZ4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
-## Perception and Sim-to-Real Validation
+## Robot Simulation (Gazebo)
 
-The robots use onboard camera perception to detect objects and decide how to interact with them. A color-based detection pipeline allows the robot to identify targets and determine navigation direction.
+To evaluate robot behavior before physical experiments, the QUPA platform was modeled and simulated in Gazebo.  
+This simulation environment allows testing the robot's motion and manipulation capabilities with multiple robots operating in the same environment.
 
-<p align="center">
-<img src="/images/qupa_perception_comparison.png" width="650">
-</p>
-
-The perception pipeline includes:
-
-- HSV color segmentation  
-- contour detection and filtering  
-- centroid estimation for navigation decisions  
-
-Comparing simulated perception with real camera data allows validation of the simulation models and helps bridge the gap between simulation and physical experiments.
+<div style="text-align:center; margin-bottom:30px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41PxA6B7Fvo" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
-## System Architecture
+## Multi-Robot Experiments
 
-The QUPA platform integrates mechanical, electronic, and embedded subsystems in a compact architecture.
+Physical experiments were conducted with multiple QUPA robots operating simultaneously.  
+The robots move in the same environment, detect nearby robots using onboard sensors, and avoid collisions while executing their behaviors.
 
-<p align="center">
-<img src="/images/qupa_internal_architecture.png" width="600">
-</p>
-
-The system combines:
-
-- embedded computation  
-- motor control and actuation  
-- onboard perception  
-- communication between modules  
-
-This architecture enables experimentation with decentralized robotic behaviors in both simulation and real environments.
-
----
-
-## Experimental Results
-
-Experiments were conducted using one to three robots performing cooperative object collection tasks. Results showed that increasing the number of robots significantly reduced the average task completion time while maintaining high efficiency.
-
-These experiments demonstrate how simple local rules can produce cooperative behaviors in groups of robots.
+<div style="text-align:center; margin-bottom:30px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WzSx8jDqz7o" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 
 ## Research Direction
 
-The QUPA platform provides a foundation for research in:
+The QUPA platform serves as a testbed for research in:
 
 - swarm robotics  
 - distributed autonomous systems  
-- decentralized control strategies  
+- decentralized robotic coordination  
 - simulation-to-real robotic validation  
 
-The system continues to serve as a testbed for exploring how small autonomous robots can cooperate to perform complex tasks.
+This platform enables experimentation with cooperative robotic behaviors and multi-robot interaction in both simulated and real environments.
