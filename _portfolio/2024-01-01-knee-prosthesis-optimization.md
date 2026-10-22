@@ -5,32 +5,40 @@ permalink: /portfolio/2024-knee-prosthesis-optimization
 excerpt: 'Optimized knee prosthesis models through Finite Element Analysis (FEA) and validated their manufacturability using multi-axis CNC systems at CAMPRO.'
 date: 2024-01-01
 venue: 'CAMPRO (Precision Manufacturing Center), ESPOL'
+order: 4
 header:
   teaser: "/images/vi%20rodilla.jpeg"
 ---
 
-Durante mi pasantía como interno de manufactura en el **Centro de Fabricación de Precisión (CAMPRO)** de la **ESPOL**, lideré la optimización de prótesis de rodilla[cite: 1]. Este proyecto requirió una integración profunda entre el diseño asistido por computadora (CAD) y la ingeniería asistida por computadora (CAE).
+| | |
+|---|---|
+| **Summary** | Knee prosthesis models optimized with Finite Element Analysis and validated for manufacturability on multi-axis CNC machining centers at CAMPRO, ESPOL. |
+| **My role** | Manufacturing intern at CAMPRO; led the prosthesis optimization work |
+| **Tech stack** | SolidWorks, FEA, CAD/CAM/CAE, multi-axis CNC, G-Code |
+| **Links** | Video: [machining validation](https://www.youtube.com/watch?v=g_AigXsSn5s) |
 
-### Análisis y Optimización Técnica
-El trabajo se centró en mejorar la eficiencia estructural y la manufacturabilidad de componentes protésicos complejos:
+During my internship as a manufacturing intern at the **Precision Manufacturing Center (CAMPRO)** at **ESPOL**, I led the optimization of knee prostheses. This project required close integration between computer-aided design (CAD) and computer-aided engineering (CAE).
 
-* **Optimización mediante FEA:** Utilicé **Análisis de Elementos Finitos (FEA)** para simular las cargas dinámicas en las prótesis, optimizando la geometría para maximizar la resistencia y minimizar el peso del material.
-* **Validación de Manufactura:** Diseñé y validé los flujos de trabajo para centros de mecanizado **CNC multieje**, asegurando que los diseños optimizados cumplieran con las tolerancias industriales requeridas.
+### Technical Analysis and Optimization
+The work focused on improving the structural efficiency and manufacturability of complex prosthetic components:
 
-### Prototipado y Validación de Diseño
-Para validar la cinemática y el ajuste de las piezas antes de la producción final, se fabricaron prototipos de prueba que permitieron verificar la precisión de los algoritmos de mecanizado:
+* **FEA-based optimization:** I used **Finite Element Analysis (FEA)** to simulate the dynamic loads on the prostheses, optimizing the geometry to maximize strength and minimize material weight.
+* **Manufacturing validation:** I designed and validated the workflows for **multi-axis CNC** machining centers, ensuring that the optimized designs met the required industrial tolerances.
+
+### Prototyping and Design Validation
+To validate the kinematics and fit of the parts before final production, test prototypes were manufactured, which made it possible to verify the accuracy of the machining algorithms:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <img src="/images/vi%20rodilla.jpeg" width="48%" alt="Vista Interna del Prototipo">
-  <img src="/images/vs%20rodilla.jpeg" width="48%" alt="Vista Superior del Prototipo">
-  <img src="/images/vf%20rodilla.jpeg" width="48%" alt="Vista Frontal del Prototipo" style="margin-top:10px;">
-  <img src="/images/vt%20rodilla.jpeg" width="48%" alt="Vista Lateral del Prototipo" style="margin-top:10px;">
+  <img src="/images/vi%20rodilla.jpeg" width="48%" alt="Internal view of the prototype">
+  <img src="/images/vs%20rodilla.jpeg" width="48%" alt="Top view of the prototype">
+  <img src="/images/vf%20rodilla.jpeg" width="48%" alt="Front view of the prototype" style="margin-top:10px;">
+  <img src="/images/vt%20rodilla.jpeg" width="48%" alt="Side view of the prototype" style="margin-top:10px;">
 </div>
 
-### Validación en Centro de Mecanizado
-En el siguiente video se muestra la ejecución de una rutina de mecanizado para validar las trayectorias de herramienta generadas y la integridad del diseño en un entorno de manufactura real:
+### Validation on the Machining Center
+The following video shows the execution of a machining routine used to validate the generated toolpaths and the integrity of the design in a real manufacturing environment:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g_AigXsSn5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe title="Knee prosthesis CNC machining validation" width="560" height="315" src="https://www.youtube.com/embed/g_AigXsSn5s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Impacto en mi Perfil de Investigación
-Esta experiencia me permitió dominar el flujo completo de **CAD/CAM/CAE**, una habilidad crítica para la transición de modelos teóricos de robótica a hardware físico real. El manejo de software como **SolidWorks** y la programación de **Código G** multieje son competencias que ahora aplico en la instrucción técnica y en mis proyectos actuales de investigación.
+### Impact on My Research Profile
+This experience allowed me to master the complete **CAD/CAM/CAE** workflow, a critical skill for moving from theoretical robotics models to real physical hardware. Working with software such as **SolidWorks** and programming multi-axis **G-code** are skills I now apply in technical instruction and in my current research projects.

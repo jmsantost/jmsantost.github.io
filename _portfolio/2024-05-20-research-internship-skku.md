@@ -2,12 +2,20 @@
 title: "Research Internship: Mobile Robotics & Navigation at RISE Lab (SKKU)"
 collection: portfolio
 permalink: /portfolio/2024-skku-internship
-excerpt: 'Completed an international research internship at Sungkyunkwan University (South Korea), focusing on SLAM and Autonomous Navigation using ROS and TurtleBot3.'
+excerpt: 'Research internship at the RISE Lab, Sungkyunkwan University (Feb–May 2024). Worked on mobile robot navigation with ROS and Gazebo, including SLAM (ROS1) and the implementation of MPPI and MPC controllers (ROS2) for a Hyundai Robotics project. Tested on TurtleBot3.'
 date: 2024-05-20
 venue: 'RISE Lab, Sungkyunkwan University (SKKU)'
+order: 3
 header:
   teaser: "/images/yo-skku.jpg"
 ---
+
+| | |
+|---|---|
+| **Summary** | Research internship at the RISE Lab, Sungkyunkwan University (Feb–May 2024). Worked on mobile robot navigation with ROS and Gazebo, including SLAM (ROS1) and the implementation of MPPI and MPC controllers (ROS2) for a Hyundai Robotics project. Tested on TurtleBot3. |
+| **My role** | Research intern at the RISE Lab (Feb–May 2024), supervised by Nabih Pico, Ph.D.; worked on SLAM (ROS1) and implemented MPPI and MPC controllers (ROS2) for a Hyundai Robotics project |
+| **Tech stack** | ROS1 (SLAM), ROS2 (MPPI, MPC), Gazebo, RViz, TurtleBot3, Social Force Models |
+| **Links** | Videos: [navigation demo 1](https://www.youtube.com/watch?v=aEvPxl-h110), [navigation demo 2](https://www.youtube.com/watch?v=0F7sW27ZyuU) |
 
 During my research stay at the RISE Lab at Sungkyunkwan University in South Korea, I worked under the supervision of Nabih Pico, Ph.D.. This experience allowed me to dive deep into the field of mobile robotics, focusing on autonomous navigation and mapping.
 
@@ -16,17 +24,17 @@ During my research stay at the RISE Lab at Sungkyunkwan University in South Kore
 ### Technical Research & Development
 My work focused on implementing and testing Navigation and SLAM (Simultaneous Localization and Mapping) architectures. I utilized a professional robotics stack to bridge the gap between simulation and real-world deployment:
 
-* Platforms: Worked extensively with TurtleBot3.
-* Software Stack: Developed using ROS (Robot Operating System) and RViz for data visualization.
+* Platforms: Tested on TurtleBot3.
+* Software Stack: ROS1 for SLAM and ROS2 for the controller implementation, with RViz for data visualization.
 * Simulation: Conducted experiments and validation in Gazebo.
-* Specific Algorithms: Optimized industrial motion planning and SLAM architectures, including collaboration with Hyundai Robotics.
+* Specific Algorithms: SLAM (ROS1), and implementation of MPPI and MPC controllers (ROS2) for a Hyundai Robotics project.
 
 ### Lab Experiments & Demonstrations
 The following videos showcase the implementation of autonomous navigation stacks and sensor fusion experiments conducted during the internship:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/aEvPxl-h110" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/0F7sW27ZyuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe title="RISE Lab navigation demo 1" width="560" height="315" src="https://www.youtube.com/embed/aEvPxl-h110" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe title="RISE Lab navigation demo 2" width="560" height="315" src="https://www.youtube.com/embed/0F7sW27ZyuU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Industrial and Academic Visits

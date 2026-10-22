@@ -18,6 +18,14 @@ allowfullscreen>
 </iframe>
 </div>
 
+## Highlights
+
+- 🏆 **1st place, RoboRacer category – International Robot Olympiad (IRO) Open Ecuador 2025**, autonomous racing on the F1TENTH platform with ROS 2 ([details](/portfolio/2025-f1tenth-championship)).
+- 🤖 **QUPA** – designed and built a modular ESP32-based robotic platform for multi-robot research, validated in ARGoS/Gazebo and in physical multi-robot experiments ([details](/portfolio/qupa)).
+- 🇰🇷 Research internship at the **RISE Lab, Sungkyunkwan University** (Feb–May 2024). Worked on mobile robot navigation with ROS and Gazebo, including SLAM (ROS1) and the implementation of MPPI and MPC controllers (ROS2) for a Hyundai Robotics project. Tested on TurtleBot3 ([details](/portfolio/2024-skku-internship)).
+
+📧 Contact: [josemiguelsantost@gmail.com](mailto:josemiguelsantost@gmail.com)
+
 I am José Miguel Santos Terán, a Mechatronics Engineer from Escuela Superior Politécnica del Litoral (ESPOL). My work focuses on autonomous robotics, distributed systems, and swarm robotics. I am interested in how groups of small robots can sense their environment, make local decisions, and coordinate to perform tasks in complex environments.
 
 My research combines mechanical design, embedded systems, perception, and multi-robot simulation. I work with platforms such as ARGoS, Gazebo, and ROS to study collective robotic behavior and evaluate distributed control strategies in both simulated and real robotic systems.
@@ -33,6 +41,13 @@ My main research interests include:
 - Experimental validation of robotic algorithms  
 
 I am particularly interested in robotic collectives capable of performing inspection, monitoring, and cooperative manipulation tasks in real environments.
+
+## Technical Skills
+
+- **Robotics:** ROS / ROS 2, Gazebo, ARGoS, RViz, SLAM, autonomous navigation (Nav2), MoveIt, TurtleBot3, F1TENTH
+- **Control:** MPC, MPPI, PID, Social Force Models for navigation, Gap Follower reactive planning
+- **Programming:** Python, C++, MATLAB, Lua, JavaScript, G-Code
+- **Embedded / Hardware:** ESP32, sensor integration (LiDAR, camera), actuator control
 
 ## QUPA Robotic Platform
 
@@ -51,5 +66,5 @@ The platform was tested both in simulation and in physical experiments. Through 
 More technical details about the platform, including simulation environments and system architecture, can be found in the portfolio section.
 
 <div style="text-align:center; margin-top:40px;">
-<img src="/images/qupa_Real.jpeg" width="500">
+<img src="/images/qupa_Real.jpeg" width="500" alt="QUPA modular mobile robot prototype">
 </div>
