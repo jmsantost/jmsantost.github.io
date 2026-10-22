@@ -26,10 +26,10 @@ Sep 2024 – Present | Guayaquil, Ecuador
 ### Research Internship – RISE Lab, Sungkyunkwan University  
 Feb 2024 – May 2024 | Suwon, South Korea
 
-- Worked on autonomous navigation and robotic motion planning.
+Research internship at the RISE Lab, Sungkyunkwan University (Feb–May 2024). Worked on mobile robot navigation with ROS and Gazebo, including SLAM (ROS1) and the implementation of MPPI and MPC controllers (ROS2) for a Hyundai Robotics project. Tested on TurtleBot3.
+
 - Developed simulation scenarios for robot navigation using ROS and Gazebo.
 - Evaluated navigation strategies using social force models for safe human-robot interaction.
-- Research collaboration related to industrial robotics platforms.
 
 ---
 
