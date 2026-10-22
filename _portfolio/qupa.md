@@ -5,6 +5,7 @@ permalink: /portfolio/qupa
 excerpt: 'Modular ESP32-based mobile robot for distributed multi-robot research, with onboard perception, a manipulation module, and ARGoS/Gazebo simulation validated against physical multi-robot experiments.'
 venue: 'Undergraduate thesis, ESPOL'
 order: 1
+stack: [ESP32, ARGoS, Gazebo, Multi-robot]
 header:
   teaser: "/images/qupa_Real.jpeg"
 ---
@@ -14,6 +15,7 @@ header:
 | **Summary** | Modular mobile robot platform developed as my undergraduate thesis to study distributed multi-robot behaviors in simulation and on real hardware. |
 | **Tech stack** | ESP32, camera-based color detection, ARGoS, Gazebo |
 | **Links** | Videos: below on this page |
+{: .project-facts}
 
 QUPA is a modular robotic platform developed to study autonomous robotics and distributed multi-robot behaviors.  
 The platform integrates embedded control, onboard perception, robotic manipulation, and simulation environments to evaluate robotic systems both in simulation and in real-world experiments.

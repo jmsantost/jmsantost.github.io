@@ -8,23 +8,48 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align:center; margin-bottom:30px;">
-<iframe width="800" height="450" 
-src="https://www.youtube.com/embed/ogbKXia1wyc" 
-title="QUPA Swarm Simulation" 
-frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
-</iframe>
+<div class="hero">
+<p class="hero__title">Mechatronics Engineer · Autonomous Robotics &amp; Control</p>
+<p class="hero__tagline">Multi-robot systems, navigation and control (MPC, MPPI) with ROS / ROS 2, Gazebo and ARGoS, validated on real robotic platforms.</p>
+<p class="hero__actions">
+<a class="hero__btn hero__btn--primary" href="/cv/"><i class="fas fa-file" aria-hidden="true"></i> CV</a>
+<a class="hero__btn" href="https://github.com/jmsantost"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a>
+<a class="hero__btn" href="https://www.linkedin.com/in/jmsantost"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+<a class="hero__btn" href="https://scholar.google.com/citations?view_op=list_works&amp;hl=es&amp;user=zb1Dd6IAAAAJ"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Scholar</a>
+<a class="hero__btn" href="mailto:josemiguelsantost@gmail.com"><i class="fas fa-envelope" aria-hidden="true"></i> josemiguelsantost@gmail.com</a>
+</p>
 </div>
 
 ## Highlights
 
 - 🏆 **1st place, RoboRacer category – International Robot Olympiad (IRO) Open Ecuador 2025**, autonomous racing on the F1TENTH platform with ROS 2 ([details](/portfolio/2025-f1tenth-championship)).
 - 🤖 **QUPA** – designed and built a modular ESP32-based robotic platform for multi-robot research, validated in ARGoS/Gazebo and in physical multi-robot experiments ([details](/portfolio/qupa)).
-- 🇰🇷 Research internship at the **RISE Lab, Sungkyunkwan University** (Feb–May 2024). Worked on mobile robot navigation with ROS and Gazebo, including SLAM (ROS1) and the implementation of MPPI and MPC controllers (ROS2) for a Hyundai Robotics project. Tested on TurtleBot3 ([details](/portfolio/2024-skku-internship)).
+- 🔬 Research internship at the **RISE Lab, Sungkyunkwan University** (Feb–May 2024). Worked on mobile robot navigation with ROS and Gazebo, including SLAM (ROS1) and the implementation of MPPI and MPC controllers (ROS2) for a Hyundai Robotics project. Tested on TurtleBot3 ([details](/portfolio/2024-skku-internship)).
 
-📧 Contact: [josemiguelsantost@gmail.com](mailto:josemiguelsantost@gmail.com)
+## Featured Projects
+
+{% assign featured = site.portfolio | sort: 'order' %}
+<div class="project-grid">
+{% for post in featured limit:3 %}{% include project-card.html %}{% endfor %}
+</div>
+
+[See all projects →](/portfolio/)
+
+## Technical Skills
+
+<p class="skills-group">Robotics</p>
+<ul class="chips"><li>ROS / ROS 2</li><li>Gazebo</li><li>ARGoS</li><li>RViz</li><li>SLAM</li><li>Nav2</li><li>MoveIt</li><li>TurtleBot3</li><li>F1TENTH</li></ul>
+
+<p class="skills-group">Control</p>
+<ul class="chips"><li>MPC</li><li>MPPI</li><li>PID</li><li>Social Force Models</li><li>Gap Follower</li></ul>
+
+<p class="skills-group">Programming</p>
+<ul class="chips"><li>Python</li><li>C++</li><li>MATLAB</li><li>Lua</li><li>JavaScript</li><li>G-Code</li></ul>
+
+<p class="skills-group">Embedded / Hardware</p>
+<ul class="chips"><li>ESP32</li><li>LiDAR</li><li>Camera perception</li><li>Sensor integration</li><li>Actuator control</li></ul>
+
+## About Me
 
 I am José Miguel Santos Terán, a Mechatronics Engineer from Escuela Superior Politécnica del Litoral (ESPOL). My work focuses on autonomous robotics, distributed systems, and swarm robotics. I am interested in how groups of small robots can sense their environment, make local decisions, and coordinate to perform tasks in complex environments.
 
@@ -42,16 +67,19 @@ My main research interests include:
 
 I am particularly interested in robotic collectives capable of performing inspection, monitoring, and cooperative manipulation tasks in real environments.
 
-## Technical Skills
-
-- **Robotics:** ROS / ROS 2, Gazebo, ARGoS, RViz, SLAM, autonomous navigation (Nav2), MoveIt, TurtleBot3, F1TENTH
-- **Control:** MPC, MPPI, PID, Social Force Models for navigation, Gap Follower reactive planning
-- **Programming:** Python, C++, MATLAB, Lua, JavaScript, G-Code
-- **Embedded / Hardware:** ESP32, sensor integration (LiDAR, camera), actuator control
-
 ## QUPA Robotic Platform
 
 During my undergraduate thesis I developed QUPA, a modular robotic platform designed for experimentation in distributed robotic systems.
+
+<div style="text-align:center; margin-bottom:30px;">
+<iframe width="800" height="450" 
+src="https://www.youtube.com/embed/ogbKXia1wyc" 
+title="QUPA Swarm Simulation" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen>
+</iframe>
+</div>
 
 The project included the design and integration of:
 

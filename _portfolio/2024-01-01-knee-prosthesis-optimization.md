@@ -6,6 +6,7 @@ excerpt: 'Optimized knee prosthesis models through Finite Element Analysis (FEA)
 date: 2024-01-01
 venue: 'CAMPRO (Precision Manufacturing Center), ESPOL'
 order: 4
+stack: [SolidWorks, FEA, Multi-axis CNC, G-Code]
 header:
   teaser: "/images/vi%20rodilla.jpeg"
 ---
@@ -16,6 +17,7 @@ header:
 | **My role** | Manufacturing intern at CAMPRO; led the prosthesis optimization work |
 | **Tech stack** | SolidWorks, FEA, CAD/CAM/CAE, multi-axis CNC, G-Code |
 | **Links** | Video: [machining validation](https://www.youtube.com/watch?v=g_AigXsSn5s) |
+{: .project-facts}
 
 During my internship as a manufacturing intern at the **Precision Manufacturing Center (CAMPRO)** at **ESPOL**, I led the optimization of knee prostheses. This project required close integration between computer-aided design (CAD) and computer-aided engineering (CAE).
 

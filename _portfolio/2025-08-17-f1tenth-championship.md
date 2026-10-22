@@ -6,6 +6,7 @@ excerpt: 'Won 1st place in the RoboRacer category at the International Robot Oly
 date: 2025-08-17
 venue: 'International Robot Olympiad (IRO) Open Ecuador'
 order: 2
+stack: [ROS 2, LiDAR SLAM, Gap Follower, PID]
 header:
   teaser: "/images/carro%20f1t.jpg"
 ---
@@ -17,6 +18,7 @@ header:
 | **Tech stack** | ROS 2, LiDAR-based SLAM, Gap Follower, PID steering and velocity control, F1TENTH |
 | **Results** | 1st place, RoboRacer category; completed 7 autonomous laps and stopped automatically at the finish line (tiebreak criterion) |
 | **Links** | Video: [race run](https://www.youtube.com/watch?v=ZfFiBZSwXaY) |
+{: .project-facts}
 
 This project involved the development and optimization of an autonomous racing stack for the **F1TENTH** platform, resulting in the championship title at the **IRO Open Ecuador 2025**.
 
