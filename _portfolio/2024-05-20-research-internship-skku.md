@@ -6,6 +6,7 @@ excerpt: 'Research internship at the RISE Lab, Sungkyunkwan University (Feb–Ma
 date: 2024-05-20
 venue: 'RISE Lab, Sungkyunkwan University (SKKU)'
 order: 3
+stack: [ROS, ROS 2, MPPI, MPC, SLAM, TurtleBot3]
 header:
   teaser: "/images/yo-skku.jpg"
 ---
@@ -16,6 +17,7 @@ header:
 | **My role** | Research intern at the RISE Lab (Feb–May 2024), supervised by Nabih Pico, Ph.D.; worked on SLAM (ROS1) and implemented MPPI and MPC controllers (ROS2) for a Hyundai Robotics project |
 | **Tech stack** | ROS1 (SLAM), ROS2 (MPPI, MPC), Gazebo, RViz, TurtleBot3, Social Force Models |
 | **Links** | Videos: [navigation demo 1](https://www.youtube.com/watch?v=aEvPxl-h110), [navigation demo 2](https://www.youtube.com/watch?v=0F7sW27ZyuU) |
+{: .project-facts}
 
 During my research stay at the RISE Lab at Sungkyunkwan University in South Korea, I worked under the supervision of Nabih Pico, Ph.D.. This experience allowed me to dive deep into the field of mobile robotics, focusing on autonomous navigation and mapping.
 
